@@ -2,7 +2,7 @@
 // @name         CSFD Notify Cleaner
 // @name:cs      ČSFD "chci vidět" cleaner
 // @namespace    cz.vodnikovo.csfd
-// @version      2.2
+// @version      2.3
 // @license      CC-BY-NC-4.0
 // @description  Removes "watch later" notifications older than X days on CSFD (with progress bar)
 // @description:cs  Odstraňuje notifikace „chci vidět“ starší než X dní na ČSFD (s progress barem)
@@ -11,14 +11,14 @@
 // @author       xxxvodnikxxx
 // @icon         https://www.csfd.cz/favicon.ico
 // @homepageURL  https://github.com/xxxvodnikxxx/vodnik-userscripts 
-// @downloadURL  https://github.com/xxxvodnikxxx/vodnik-userscripts/raw/main/scripts/csfd-notification-cleaner.js
-// @updateURL    https://github.com/xxxvodnikxxx/vodnik-userscripts/raw/main/scripts/csfd-notification-cleaner.js
+// @downloadURL  https://github.com/xxxvodnikxxx/vodnik-userscripts/raw/main/userscripts/csfd-notification-cleaner.js
+// @updateURL    https://github.com/xxxvodnikxxx/vodnik-userscripts/raw/main/userscripts/csfd-notification-cleaner.js
 // ==/UserScript==
 
 /*
     Last revision: 07.05.2026
 
-    Primary implemented for TV notifications, probably will work for any kind of notification 
+    Primarily implemented for TV notifications, probably will work for any kind of notification 
     Be aware there might be an issue with parsing date in another format than CZ
 */
 

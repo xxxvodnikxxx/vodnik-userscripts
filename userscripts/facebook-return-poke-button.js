@@ -2,7 +2,7 @@
 // @name         Facebook Poke Button
 // @name:cs      Facebook Šťouchnutí tlačítko
 // @namespace    cz.vodnikovo.facebook
-// @version      1.5
+// @version      1.6
 // @description  Adds a "Poke" button in the Facebook left sidebar
 // @description:cs  Přidává tlačítko „Šťouchnout“ do levého menu Facebooku
 // @license      CC-BY-NC-4.0
@@ -11,8 +11,8 @@
 // @grant        none
 // @icon         https://static.xx.fbcdn.net/rsrc.php/v4/ye/r/e0VzA17WKp6.png
 // @homepageURL  https://github.com/xxxvodnikxxx/vodnik-userscripts
-// @downloadURL  https://github.com/xxxvodnikxxx/vodnik-userscripts/raw/main/scripts/facebook-return-poke-button.js
-// @updateURL    https://github.com/xxxvodnikxxx/vodnik-userscripts/raw/main/scripts/facebook-return-poke-button.js
+// @downloadURL  https://github.com/xxxvodnikxxx/vodnik-userscripts/raw/main/userscripts/facebook-return-poke-button.js
+// @updateURL    https://github.com/xxxvodnikxxx/vodnik-userscripts/raw/main/userscripts/facebook-return-poke-button.js
 // ==/UserScript==
 
 /*
