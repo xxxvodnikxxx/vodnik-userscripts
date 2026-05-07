@@ -3,24 +3,22 @@
 
 This repository contains useful Scripts : 
 * Userscripts for  *Tamper Monkey (Chrome) /  GreaseMonkey (firefox)* and its forks
+* Set of Powershell scripts
+* Set of useful bash scripts 
+* Set of the scripts to be used at RPI
+
+**Scripts are provided with no guarantee**
 
 # Userscripts 
 
-List of the current scripts, separated by a server matched
+Please visit [reparate readmefile](./userscripts/README.md)
+* scripts are located at [userscripts subfolder](./userscripts/)
 
-## csfd.cz
-- [csfd-notification-cleaner.js](userscripts/csfd-notification-cleaner.js) 
-  - Cleaning of the ČSFD.cz notifications 
+# Powershell scripts
 
-## facebook.com
-- [facebook-return-poke-button.js](userscripts/facebook-return-poke-button.js) 
-  - Adds poke button to the Facebook menu
+Find at [powershell folder](./powershell/)
 
-## kinonymburk.cz
-- [kinoNymburk-enhancer.js](userscripts/kinoNymburk-enhancer.js) 
-  - Přidává tlačítka CSFD a export do kalendáře na Kino Nymburk
+# Bash scripts & RPI scripts
 
-## webftp.wedos.net
-- [vedos-webFTP-chownEnhancer.js](userscripts/vedos-.js) 
-  - Přidává tlačítka pro rychlé nastavení práv 644/755 na Wedos WebFTP
-  - Adds option to configure 644/755 CHOWN checkboxes
+* Find at [bash folder](./bash/)
+* scripts tailored for RPI -> [rpi-bash subfolder](./rpi-bash/)
