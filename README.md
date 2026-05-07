@@ -1,6 +1,12 @@
 
 # User scripts
 
+This repository contains useful Scripts for
+
+* Tamper Monkey (Chrome)
+* GreaseMonkey (firefox)
+* plus its forks
+
 List of the current scripts, separated by a server matched
 
 ## csfd.cz
