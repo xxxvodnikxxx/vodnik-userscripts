@@ -6,6 +6,9 @@
 // @match        https://webftp.wedos.net/index.php*
 // @grant        none
 // @icon         https://vedos.cz/wp-content/uploads/2025/07/favicon_VEDOS-150x150.png
+// @homepageURL  https://github.com/xxxvodnikxxx/vodnik-userscripts
+// @downloadURL  https://github.com/xxxvodnikxxx/vodnik-userscripts/raw/main/scripts/vedos-webFTP-chownEnhancer.js
+// @updateURL    https://github.com/xxxvodnikxxx/vodnik-userscripts/raw/main/scripts/vedos-webFTP-chownEnhancer.js
 // ==/UserScript==
 
 /*

@@ -7,6 +7,9 @@
 // @match        https://www.kinonymburk.cz/*
 // @icon         https://www.kinonymburk.cz/favicon.ico
 // @grant        none
+// @homepageURL  https://github.com/xxxvodnikxxx/vodnik-userscripts
+// @downloadURL  https://github.com/xxxvodnikxxx/vodnik-userscripts/raw/main/scripts/kinoNymburk-enhancer.js
+// @updateURL    https://github.com/xxxvodnikxxx/vodnik-userscripts/raw/main/scripts/kinoNymburk-enhancer.js
 // ==/UserScript==
 
 /*

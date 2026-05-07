@@ -7,7 +7,9 @@
 // @grant        none
 // @author       xxxvodnikxxx
 // @icon         https://www.csfd.cz/favicon.ico
-// @homepage
+// @homepageURL  https://github.com/xxxvodnikxxx/vodnik-userscripts 
+// @downloadURL  https://github.com/xxxvodnikxxx/vodnik-userscripts/raw/main/scripts/csfd-notification-cleaner.js
+// @updateURL    https://github.com/xxxvodnikxxx/vodnik-userscripts/raw/main/scripts/csfd-notification-cleaner.js
 // ==/UserScript==
 
 /*

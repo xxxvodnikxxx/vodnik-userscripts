@@ -7,6 +7,9 @@
 // @match        https://www.facebook.com/*
 // @grant        none
 // @icon         https://static.xx.fbcdn.net/rsrc.php/v4/ye/r/e0VzA17WKp6.png
+// @homepageURL  https://github.com/xxxvodnikxxx/vodnik-userscripts
+// @downloadURL  https://github.com/xxxvodnikxxx/vodnik-userscripts/raw/main/scripts/facebook-return-poke-button.js
+// @updateURL    https://github.com/xxxvodnikxxx/vodnik-userscripts/raw/main/scripts/facebook-return-poke-button.js
 // ==/UserScript==
 
 /*

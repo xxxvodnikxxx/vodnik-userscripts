@@ -16,5 +16,5 @@ List of the current scripts, separated by a server matched
   - Přidává tlačítka CSFD a export do kalendáře na Kino Nymburk
 
 ## webftp.wedos.net
-- [vedos-.js](scripts/vedos-.js) 
+- [vedos-webFTP-chownEnhancer.js](scripts/vedos-.js) 
   - Přidává tlačítka pro rychlé nastavení práv 644/755 na Wedos WebFTP
