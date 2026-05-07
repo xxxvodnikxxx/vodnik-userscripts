@@ -1,8 +1,11 @@
 // ==UserScript==
 // @name         Wedos chmod helper CZ, net2ftp chmod helper
+// @name:cs      Wedos chmod helper CZ, net2ftp chmod helper
 // @namespace    cz.vodnikovo.wedos
 // @version      1.0
-// @description  Přidá tlačítka pro rychlé nastavení práv 644/755 na stránce Wedos WebFTP
+// @description  Adds quick chmod 644/755 buttons on Wedos WebFTP chmod page
+// @description:cs  Přidá tlačítka pro rychlé nastavení práv 644/755 na stránce Wedos WebFTP
+// @license      CC-BY-NC-4.0
 // @match        https://webftp.wedos.net/index.php*
 // @grant        none
 // @icon         https://vedos.cz/wp-content/uploads/2025/07/favicon_VEDOS-150x150.png

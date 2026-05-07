@@ -1,8 +1,11 @@
 // ==UserScript==
 // @name         Kino Nymburk Enhancer
+// @name:cs      Kino Nymburk vylepšení
 // @namespace    cz.vodnikovo.kinonymburk
 // @version      2.4
 // @description  Adds CSFD + ICS export buttons to movie listings
+// @description:cs  Přidává tlačítka CSFD a export do kalendáře na Kino Nymburk
+// @license      CC-BY-NC-4.0
 // @author       xxxvodnikxxx
 // @match        https://www.kinonymburk.cz/*
 // @icon         https://www.kinonymburk.cz/favicon.ico

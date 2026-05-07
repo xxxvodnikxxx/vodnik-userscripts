@@ -1,8 +1,11 @@
 // ==UserScript==
 // @name         CSFD Notify Cleaner
+// @name:cs      ČSFD "chci vidět" cleaner
 // @namespace    cz.vodnikovo.csfd
 // @version      2.2
+// @license      CC-BY-NC-4.0
 // @description  Removes "watch later" notifications older than X days on CSFD (with progress bar)
+// @description:cs  Odstraňuje notifikace „chci vidět“ starší než X dní na ČSFD (s progress barem)
 // @match        *://*.csfd.cz/soukrome/chci-videt*
 // @grant        none
 // @author       xxxvodnikxxx

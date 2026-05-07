@@ -1,8 +1,11 @@
 // ==UserScript==
 // @name         Facebook Poke Button
+// @name:cs      Facebook Šťouchnutí tlačítko
 // @namespace    cz.vodnikovo.facebook
 // @version      1.5
 // @description  Adds a "Poke" button in the Facebook left sidebar
+// @description:cs  Přidává tlačítko „Šťouchnout“ do levého menu Facebooku
+// @license      CC-BY-NC-4.0
 // @author       xxxvodnikxxx
 // @match        https://www.facebook.com/*
 // @grant        none
