@@ -1,4 +1,4 @@
- // ==UserScript==
+// ==UserScript==
 // @name         ČSFD - Adjustable Content Width
 // @namespace    cz.vodnikovo.csfd
 // @version      2.0.0
@@ -12,6 +12,7 @@
 // @run-at       document-idle
 // @grant        GM_getValue
 // @grant        GM_setValue
+// @license MIT 
 // ==/UserScript==
 
 (function () {
